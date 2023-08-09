@@ -1,0 +1,28 @@
+.character-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.character-card_div {
+  display: flex;
+}
+
+.character-card_div img {
+  height: 90%;
+  max-height: 700px;
+  position: absolute;
+  bottom: 0;
+  left: 25%;
+  transform: translateX(-50%);
+}
+
+.character-name {
+  display: flex;
+}
+
+.character-name_p {
+  font-size: 220px;
+  color: #333333;
+}
