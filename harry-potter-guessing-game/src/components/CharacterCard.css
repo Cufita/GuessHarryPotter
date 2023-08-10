@@ -10,7 +10,7 @@
 }
 
 .character-card_div img {
-  height: 90%;
+  height: 700px;
   max-height: 700px;
   position: absolute;
   bottom: 0;
@@ -25,4 +25,40 @@
 .character-name_p {
   font-size: 220px;
   color: #333333;
+}
+
+@media (max-width: 1200px) {
+  .character-card {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .character-card_div img {
+    height: 700px;
+    max-height: 700px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .character-name {
+    position: absolute;
+    top: -15%;
+    margin: 0;
+  }
+  .character-name_p {
+    font-size: 120px;
+    color: #333333;
+  }
+}
+
+@media (max-width: 900px) {
+  .character-card_div img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vw;
+  }
 }

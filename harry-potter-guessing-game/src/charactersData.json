@@ -3,72 +3,60 @@
     "id": 1,
     "nombre": "Dobby",
     "imagen": "https://i.postimg.cc/MTwBX59D/dobby.png",
-    "imagennegra": "https://i.ibb.co/KbmctpC/dobby.png"
+    "imagennegra": "https://i.postimg.cc/V6LKGzBt/Recurso-40.png"
   },
   {
     "id": 2,
     "nombre": "Hagrid",
     "imagen": "https://i.postimg.cc/jqZfdzPH/hagrid.png",
-    "imagennegra": "https://i.ibb.co/z2qWWym/Hagrid.png"
+    "imagennegra": "https://i.postimg.cc/QxZZmnnq/Recurso-50.png"
   },
   {
     "id": 3,
     "nombre": "Hedwig",
     "imagen": "https://i.postimg.cc/MHPfPSqP/hedwing.png",
-    "imagennegra": "https://i.ibb.co/yYSnDX0/Hedwig.png"
+    "imagennegra": "https://i.postimg.cc/dQyK8Kn1/Recurso-51.png"
   },
   {
     "id": 4,
-    "nombre": "Myrtle",
-    "imagen": "https://i.ibb.co/YtG3Gm2/Myrtle.png",
-    "imagennegra": "https://i.ibb.co/4WTZR3R/Myrtle.png"
+    "nombre": "Harry",
+    "imagen": "https://i.postimg.cc/L651qn3r/harry.png",
+    "imagennegra": "https://i.postimg.cc/5tJ7zBXn/Recurso-39.png"
   },
   {
     "id": 5,
-    "nombre": "Harry Potter",
-    "imagen": "https://i.postimg.cc/L651qn3r/harry.png",
-    "imagennegra": "https://i.ibb.co/1zbrvTb/potter.png"
+    "nombre": "Hat",
+    "imagen": "https://i.postimg.cc/28tBnrH3/hat.png",
+    "imagennegra": "https://i.postimg.cc/Bn9MWTB4/Recurso-46.png"
   },
   {
     "id": 6,
-    "nombre": "Snitch",
-    "imagen": "https://i.postimg.cc/6qmTVffF/snitch.png",
-    "imagennegra": "https://i.ibb.co/MCNG54D/snitch.png"
+    "nombre": "Voldemort",
+    "imagen": "https://i.postimg.cc/vTqGF81n/voldemort.png",
+    "imagennegra": "https://i.postimg.cc/ZYQwHt99/Recurso-42.png"
   },
   {
     "id": 7,
-    "nombre": "Hat",
-    "imagen": "https://i.postimg.cc/28tBnrH3/hat.png",
-    "imagennegra": "https://i.ibb.co/MBh0mfb/sombrero.png"
+    "nombre": "Malfoy",
+    "imagen": "https://i.postimg.cc/0QCwSS3q/evil.png",
+    "imagennegra": "https://i.postimg.cc/Hkw3Tr65/Recurso-36.png"
   },
   {
     "id": 8,
-    "nombre": "Voldemort",
-    "imagen": "https://i.postimg.cc/vTqGF81n/voldemort.png",
-    "imagennegra": "https://i.ibb.co/r6MCd7b/Voldemort.png"
-  },
-  {
-    "id": 9,
-    "nombre": "Draco Malfoy",
-    "imagen": "https://i.postimg.cc/0QCwSS3q/evil.png",
-    "imagennegra": "https://i.postimg.cc/0QCwSS3q/evil.png"
-  },
-  {
-    "id": 9,
-    "nombre": "Severus Snape",
+    "nombre": "Snape",
     "imagen": "https://i.postimg.cc/fbntg5QN/evilprofesor.png",
-    "imagennegra": "https://i.postimg.cc/fbntg5QN/evilprofesor.png"
+    "imagennegra": "https://i.postimg.cc/4yVkZznt/Recurso-53.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Dumbledor",
+    "imagen": "https://i.postimg.cc/4dXKXd32/profesor.png",
+    "imagennegra": "https://i.postimg.cc/SRHVxC0L/Recurso-44.png"
   },
   {
     "id": 10,
-    "nombre": "Dumbledor",
-    "imagen": "https://i.postimg.cc/4dXKXd32/profesor.png",
-    "imagennegra": "https://i.postimg.cc/4dXKXd32/profesor.png"
-  },
-  {
-    "id": 11,
     "nombre": "Ron",
     "imagen": "https://i.postimg.cc/8c5jr0Mh/ron.png",
-    "imagennegra": "https://i.postimg.cc/8c5jr0Mh/ron.png"
+    "imagennegra": "https://i.postimg.cc/PJC2HK7r/Recurso-41.png"
   }
 ]
